@@ -1,0 +1,6 @@
+collection_name: catawiki_lots
+incremental: true
+date_field: createdAt
+start_date: 2020-03-01
+end_date: 2020-05-25
+hours_interval: 24

@@ -1,0 +1,6 @@
+collection_name: properties
+incremental: true
+date_field: crawledAt
+start_date: 2019-07-01
+end_date: 2020-04-20
+hours_interval: 24
